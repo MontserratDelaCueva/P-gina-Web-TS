@@ -1,0 +1,117 @@
+
+
+body {
+    background-color: #E7CEF2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color: #b5319f;
+    font-size: 400%;
+}
+h3{
+    color: #5d0fed;
+    font-size: 200%;
+    margin-left: 5%;
+}
+.album {
+    overflow: hidden;
+}
+
+.album img {
+    margin-top: 1%;
+    width: 5%;
+    float: left;
+    margin-right: 10px; /* Ajusta el margen según tus necesidades */
+}
+
+.album ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.album li {
+    margin-bottom: 10px;
+    margin-left: 7%;
+    color: #b5319f;
+    font-size: 110%;
+}
+.top {
+    overflow: hidden;
+}
+
+.top img {
+    margin-top: 1%;
+    width: 5%;
+    float: left;
+    margin-right: 10px; /* Ajusta el margen según tus necesidades */
+}
+
+.top ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top li {
+    margin-bottom: 10px;
+    margin-left: 6%;
+    color: #c000a0;
+    font-size: 110%;
+}
+a{
+    color:#e61dd1;
+}
+form{
+    color: #473B22;
+}
+img {
+    width: 80%;
+    height: ;
+}
+.header{
+    width: auto;
+    margin: auto;
+    display: block;
+}
+.saturno_1{
+    width: 100%;
+}
+.link{
+    width: 40%;
+}
+.menu {
+    text-align: center;
+    font-size: 180%;
+    background-color:#eaa8df ;
+    padding: 1%;
+}
+.menu a{
+    margin: 5%;
+    color: #8442ff;
+
+}
+.formulario p{
+    color: #c856b5;
+}
+.formulario {
+    margin-top: 10%;
+    margin-left: 1%;
+}
+.bio p{
+    margin: 4%;
+    text-align: justify;
+    color: #c000a0;
+    font-size: 130%;
+}
+.bio {
+    overflow: hidden;
+}
+
+.bio img {
+    margin-top: 1%;
+    width: 5%;
+    float: left;
+    margin-right: 10px; /* Ajusta el margen según tus necesidades */
+}
